@@ -61,6 +61,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website (https://404-not-found-pearl.vercel.app/})
+- Website (https://404-not-found-pearl.vercel.app/}), ({https://gamajr-404-not-found.netlify.app/})
 - GitHub [@gamajunior6](https://{https://github.com/Gamajunior6})
 - Twitter [@gamajunior6](https://{twitter.com/gamajunior6})
